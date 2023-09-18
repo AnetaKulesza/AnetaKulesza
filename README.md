@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aneta
+# 👋 Hi, I’m @Aneta
 - 🌱 I’m currently learning html, css and JavaScript.
 - I'm occupational terapist and I want develop myself in various way.
 - I bulid my first websites and make first animations.
